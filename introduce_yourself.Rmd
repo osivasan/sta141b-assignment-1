@@ -4,7 +4,7 @@ title: "Introduce Yourself"
 
 
 It is a quick exercise for you to get familiar with RStudio, Rmarkdown and GitHub. Please
-edit the following R block and update the variables with your information. Then knit the document to either a pdf or html file.
+edit the following R block and update the variable `my_name` with your information. Then knit the document to either a pdf or html file.
 
 
 ```{r, echo = FALSE}
