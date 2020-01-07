@@ -12,3 +12,17 @@ my_name <- "YOUR NAME"
 ```
 
 Hello to the world, I am `r my_name`.
+
+
+## Get a random quote!
+
+<!-- Don't worry if you don't understand the following, these are the things we are going to learn. -->
+
+```{r, echo = FALSE, message = FALSE}
+library(httr)
+results <- GET("https://api.kanye.rest")
+if (status_code(results) != 200) {
+    stop("cannot fetch any quote")
+}
+```
+"`r content(results)$quote`".
