@@ -6,7 +6,7 @@ This is your first assignment. Though you should be able to finish within minute
 Instructions
 
 1. make sure your have submitted your GitHub username to the google form: https://forms.gle/E8AiF7i1xTVEFshM7
-    This will allow us to fetch your assignments later. Fail to do so will result in a zero grade of the assignments. DO NOT enter more than once.
+    This will allow us to fetch your assignments later. Failing to do so will result in a zero grade of the assignments. DO NOT enter more than once.
 
 1. accept the assignment via the link: https://classroom.github.com/a/0l-RwIkO
     Your repository url should be `https://github.com/UCDavis-STA-141B-Winter-2020/sta141b-assignment-1-USERNAME`
