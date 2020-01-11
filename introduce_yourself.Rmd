@@ -8,7 +8,7 @@ edit the following R block and update the variable `my_name` with your informati
 
 
 ```{r, echo = FALSE}
-my_name <- "YOUR NAME"
+my_name <- "Oviya S"
 ```
 
 Hello to the world, I am `r my_name`.
